@@ -309,8 +309,8 @@ cd cesi-tp/07_storage/
    current date, etc...).
 
 For instance, your buckets could be called:
-* `ysimiandcossin-17122024-source`
-* `ysimiandcossin-17122024-target`
+* `ysimiandcossin-source`
+* `ysimiandcossin-target`
 
 From now on, let's call the first bucket the `source` bucket and the second bucket the `target` bucket.
 

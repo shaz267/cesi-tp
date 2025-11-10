@@ -16,10 +16,10 @@ variable "project" {
 # TODO: update the S3 bucket names below with your bucket names
 variable "bucket_source" {
   type    = string
-  default = "ysimiandcossin-17122024-source"
+  default = "ysimiandcossin-source"
 }
 
 variable "bucket_target" {
   type    = string
-  default = "ysimiandcossin-17122024-target"
+  default = "ysimiandcossin-target"
 }
